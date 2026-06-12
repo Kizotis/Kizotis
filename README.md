@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:134e4a,50:16a34a,100:4ade80&text=Antoine%20BOUVARD&fontColor=f0fdf4&fontSize=48&fontAlignY=35&desc=%F0%9F%8C%BF%20Web%20%26amp%3B%20Software%20Developer%20%F0%9F%8C%BF&descSize=20&descAlignY=55" width="100%" alt="banner"/>
 
-<img src="https://github.com/Kizotis.png" width="130" alt="avatar"/>
-
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antoine_Bouvard-166534?style=flat-square&logo=linkedin&logoColor=4ade80)](https://www.linkedin.com/in/antoine-bouvard)
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D-Geneva-166534?style=flat-square)](https://github.com/Kizotis)
@@ -21,7 +19,7 @@ local antoine = {
     username   = "Kizotis",
     role       = "Web & Software Developer",
     location   = "Geneva 🇨🇭",
-    fullstack  = { "WinDev", "JavaScript/TypeScript", "Rust", "PL/SQL" },
+    fullstack  = { "WinDev", "JavaScript/TypeScript", "Rust", "PL/SQL", "LLM / AI" },
     currently  = "growing clean code 🪴",
 }
 ```
