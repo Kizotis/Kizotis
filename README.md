@@ -1,46 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:134e4a,50:16a34a,100:4ade80&text=Antoine%20BOUVARD&fontColor=f0fdf4&fontSize=48&fontAlignY=35&desc=%F0%9F%8C%BF%20D%C3%A9veloppeur%20Web%20%26%20Logiciel%20%F0%9F%8C%BF&descSize=20&descAlignY=55" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:134e4a,50:16a34a,100:4ade80&text=Antoine%20BOUVARD&fontColor=f0fdf4&fontSize=48&fontAlignY=35&desc=%F0%9F%8C%BF%20Web%20%26amp%3B%20Software%20Developer%20%F0%9F%8C%BF&descSize=20&descAlignY=55" width="100%" alt="banner"/>
 
 <img src="https://github.com/Kizotis.png" width="130" alt="avatar"/>
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antoine_Bouvard-166534?style=flat-square&logo=linkedin&logoColor=4ade80)](https://www.linkedin.com/in/antoine-bouvard)
-[![Location](https://img.shields.io/badge/%F0%9F%93%8D-Gen%C3%A8ve-166534?style=flat-square)](https://github.com/Kizotis)
-![Profile views](https://komarev.com/ghpvc/?username=Kizotis&color=22c55e&style=flat-square&label=visites)
+[![Location](https://img.shields.io/badge/%F0%9F%93%8D-Geneva-166534?style=flat-square)](https://github.com/Kizotis)
+![Profile views](https://komarev.com/ghpvc/?username=Kizotis&color=22c55e&style=flat-square&label=views)
 
 </div>
 
 <br/>
 
-## `> à_propos` 🌱
+## `> about_me` 🌱
 
 ```lua
 local antoine = {
-    pseudo      = "Kizotis",
-    rôle        = "Développeur Web & Logiciel",
-    localisation = "Genève 🇨🇭",
-    fullstack   = { "WinDev", "JavaScript/TypeScript", "Rust", "PL/SQL" },
-    passions    = { "LLM & IA", "automatisation", "pêche 🐟" },
-    actuellement = "je fais pousser du code propre 🪴",
+    username   = "Kizotis",
+    role       = "Web & Software Developer",
+    location   = "Geneva 🇨🇭",
+    fullstack  = { "WinDev", "JavaScript/TypeScript", "Rust", "PL/SQL" },
+    currently  = "growing clean code 🪴",
 }
 ```
 
 <br/>
 
-## `> projet_phare` 🌿
+## `> featured_project` 🌿
 
 <div align="center">
 
 ### 🌍 PWRU EN Translations
 
-*Pipeline de traduction assisté par LLM — scripts **Lua** pour générer et maintenir
-la traduction anglaise du jeu PWRU, avec l'IA comme co-traducteur.*
+*LLM-assisted translation pipeline — **Lua** scripts to generate and maintain
+the English translation of the game PWRU, with AI as co-translator.*
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20%2F%20IA-22c55e?style=flat-square&logo=openai&logoColor=white)
-![i18n](https://img.shields.io/badge/Traduction-i18n-166534?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM%20%2F%20AI-22c55e?style=flat-square&logo=openai&logoColor=white)
+![i18n](https://img.shields.io/badge/Translation-i18n-166534?style=flat-square)
 
 </div>
 
@@ -48,7 +47,7 @@ la traduction anglaise du jeu PWRU, avec l'IA comme co-traducteur.*
 
 ## `> tech_stack` 🪴
 
-**Langages**
+**Languages**
 
 ![WinDev](https://img.shields.io/badge/WinDev-F4D03F?style=flat-square&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -64,7 +63,7 @@ la traduction anglaise du jeu PWRU, avec l'IA comme co-traducteur.*
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**IA & Outils**
+**AI & Tools**
 
 ![LLM](https://img.shields.io/badge/LLM-Claude%20%2F%20GPT-22c55e?style=flat-square&logo=anthropic&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -73,14 +72,14 @@ la traduction anglaise du jeu PWRU, avec l'IA comme co-traducteur.*
 
 <br/>
 
-## `> stats_github` 🌳
+## `> github_stats` 🌳
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kizotis&show_icons=true&title_color=22c55e&icon_color=4ade80&text_color=c9d1d9&bg_color=0d1117&border_color=166534&locale=fr&rank_icon=github" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kizotis&layout=compact&title_color=22c55e&text_color=c9d1d9&bg_color=0d1117&border_color=166534&locale=fr" height="165" alt="langages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kizotis&show_icons=true&title_color=22c55e&icon_color=4ade80&text_color=c9d1d9&bg_color=0d1117&border_color=166534&rank_icon=github" height="165" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kizotis&layout=compact&title_color=22c55e&text_color=c9d1d9&bg_color=0d1117&border_color=166534" height="165" alt="languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Kizotis&background=0d1117&border=166534&ring=22c55e&fire=4ade80&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=22c55e&sideLabels=4ade80&dates=8b949e&locale=fr" height="165" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=Kizotis&background=0d1117&border=166534&ring=22c55e&fire=4ade80&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=22c55e&sideLabels=4ade80&dates=8b949e" height="165" alt="streak"/>
 
 </div>
 
@@ -90,9 +89,9 @@ la traduction anglaise du jeu PWRU, avec l'IA comme co-traducteur.*
 
 <div align="center">
 
-*Toujours partant pour parler dev, IA ou pêche 🐟*
+*Always happy to talk code, AI, or your next green idea 🌱*
 
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%8C%BF_Me_contacter_sur-LinkedIn-15803d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-bouvard)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%8C%BF_Reach_me_on-LinkedIn-15803d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-bouvard)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4ade80,50:16a34a,100:134e4a&section=footer" width="100%" alt="footer"/>
 
