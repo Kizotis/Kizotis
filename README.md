@@ -30,14 +30,19 @@ local antoine = {
 
 <div align="center">
 
-### 🌍 PWRU EN Translations
+### 🎮 PWRU Helper
 
-*LLM-assisted translation pipeline — **Lua** scripts to generate and maintain
-the English translation of the game PWRU, with AI as co-translator.*
+<a href="https://github.com/Kizotis/PWRU-Helper"><img src="https://raw.githubusercontent.com/Kizotis/PWRU-Helper/main/assets/icon.png" width="130" alt="PWRU Helper"/></a>
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20%2F%20AI-22c55e?style=flat-square&logo=openai&logoColor=white)
-![i18n](https://img.shields.io/badge/Translation-i18n-166534?style=flat-square)
+*A free Windows app to chat, read &amp; translate Russian faster while playing on the
+Perfect World RU server — a click-to-copy phrasebook, on-screen **OCR** translation, and
+an **AI-assisted** translator. Built in C# / WPF.*
+
+[![Repo](https://img.shields.io/badge/GitHub-PWRU--Helper-166534?style=flat-square&logo=github&logoColor=4ade80)](https://github.com/Kizotis/PWRU-Helper)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D6?style=flat-square&logo=windows&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20translation-22c55e?style=flat-square&logo=openai&logoColor=white)
 
 </div>
 
@@ -74,8 +79,8 @@ the English translation of the game PWRU, with AI as co-translator.*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kizotis&show_icons=true&title_color=22c55e&icon_color=4ade80&text_color=c9d1d9&bg_color=0d1117&border_color=166534&rank_icon=github" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kizotis&layout=compact&title_color=22c55e&text_color=c9d1d9&bg_color=0d1117&border_color=166534" height="165" alt="languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kizotis&theme=github_dark" height="175" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kizotis&theme=github_dark" height="175" alt="languages"/>
 
 <img src="https://streak-stats.demolab.com?user=Kizotis&background=0d1117&border=166534&ring=22c55e&fire=4ade80&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=22c55e&sideLabels=4ade80&dates=8b949e" height="165" alt="streak"/>
 
