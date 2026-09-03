@@ -42,7 +42,7 @@ an **AI-assisted** translator. Built in C# / WPF.*
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0078D6?style=flat-square&logo=windows&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20translation-22c55e?style=flat-square&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20translation-22c55e?style=flat-square&logo=anthropic&logoColor=white)
 
 </div>
 
