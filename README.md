@@ -20,7 +20,7 @@ local antoine = {
     role       = "Web & Software Developer",
     location   = "Geneva 🇨🇭",
     fullstack  = { "WinDev", "JavaScript/TypeScript", "C#", "Flutter", "PL/SQL", "LLM / AI" },
-    currently  = "growing clean code 🪴",
+    currently  = "growing clean code 🪴"
 }
 ```
 
