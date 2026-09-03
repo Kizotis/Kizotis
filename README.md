@@ -19,7 +19,7 @@ local antoine = {
     username   = "Kizotis",
     role       = "Web & Software Developer",
     location   = "Geneva 🇨🇭",
-    fullstack  = { "WinDev", "JavaScript/TypeScript", "Rust", "PL/SQL", "LLM / AI" },
+    fullstack  = { "WinDev", "JavaScript/TypeScript", "C#", "Flutter", "PL/SQL", "LLM / AI" },
     currently  = "growing clean code 🪴",
 }
 ```
@@ -55,8 +55,8 @@ an **AI-assisted** translator. Built in C# / WPF.*
 ![WinDev](https://img.shields.io/badge/WinDev-F4D03F?style=flat-square&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **Web & Data**
@@ -68,10 +68,11 @@ an **AI-assisted** translator. Built in C# / WPF.*
 
 **AI & Tools**
 
-![LLM](https://img.shields.io/badge/LLM-Claude%20%2F%20GPT-22c55e?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-22c55e?style=flat-square&logo=anthropic&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 <br/>
 
